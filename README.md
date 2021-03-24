@@ -7,4 +7,4 @@ As stock values change with time and are affected by other indicators that may o
 The stock chosen for analysis in this project is RELIANCE.NS.
 We perform multiple statistical checks on different forms of stock returns and program a flexible ARIMA model that can be used for any stock.
 
-![alt text](http://url/to/img.png)
+![RELIANCE.NS](http://file://Users/ritikthakur/R/stockAnalysis/data/RELIANCE.png)
