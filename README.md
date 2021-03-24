@@ -43,5 +43,4 @@ increase or decrease in a return.
 
 The model is 73.08 % accurate when making a forecast of an increase or decrease in the logarithmic return of a stock.
 
-The RELIANCE.NS stock has grown over time, and if the trend continues, it should continue to grow. Based on the model, the values are likely to increase,
-as the forecast returns are more often above 0 than below.
+The RELIANCE.NS stock has grown over time, and if the trend continues, it should continue to grow. 
