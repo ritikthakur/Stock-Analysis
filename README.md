@@ -40,3 +40,8 @@ Interestingly enough, the same p, d , q values for Square root returns, ARIMA(14
 This graph is specific to the RELIANCE.NS stock returns over the testing period. The Black line for actual returns 
 serves as a benchmark for what happened in reality. The Red line for forecast returns serves as the prediction for the 
 increase or decrease in a return.
+
+The model is 73.08 % accurate when making a forecast of an increase or decrease in the logarithmic return of a stock.
+
+The RELIANCE.NS stock has grown over time, and if the trend continues, it should continue to grow. Based on the model, the values are likely to increase,
+as the forecast returns are more often above 0 than below.
